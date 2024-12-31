@@ -13,7 +13,7 @@ body{
    
     position: absolute;
     background-image: url(imagess/image11.avif);
-    background-size: 300px;
+    background-size: 200px;
     background-position: center center;
     padding: 10px 70px;
     transform: rotateZ(-5deg);
