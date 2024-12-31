@@ -21,20 +21,20 @@ body{
 }
 .paper.heart{
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
     padding: 0;
-    border-radius: 50%;
+    border-radius: 70%;
 }
 .paper.image{
-    padding: 5px;
+    padding: 8px;
 }
 .paper.image p{
-   font-size: 20px;
+   font-size: 30px;
 }
 image{
-    max-height: 100px;
-    width: 50%;
+    max-height: 130px;
+    width: 60%;
     
 }
 .paper.heart::after{
@@ -45,11 +45,11 @@ image{
     position: absolute;
     top: 0;
     left: 0;
-    background-size: 130px;
+    background-size: 150px;
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.9;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 p{
     font-family: cursive;
