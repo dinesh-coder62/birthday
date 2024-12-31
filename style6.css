@@ -10,6 +10,8 @@ body{
     background-image: url(imagess/image17.avif);
 }
 .paper{
+    height:30px;
+    width:40px;
    
     position: absolute;
     background-image: url(imagess/image11.avif);
@@ -27,7 +29,7 @@ body{
     border-radius: 80%;
 }
 .paper.image{
-    padding: 2px;
+    padding: 5px;
 }
 .paper.image p{
    font-size: 15px;
