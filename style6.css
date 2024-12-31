@@ -3,7 +3,7 @@
 }
 body{
  
-    height: 80vh;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,27 +13,27 @@ body{
    
     position: absolute;
     background-image: url(imagess/image11.avif);
-    background-size: 200px;
+    background-size: 50px;
     background-position: center center;
-    padding: 10px 70px;
+    padding: 3px 30px;
     transform: rotateZ(-5deg);
-    box-shadow: 1px 15px 20px 0px rgba(0,0,0, 0.5);
+    box-shadow: 0.5px 5px 10px 0px rgba(0,0,0, 0.5);
 }
 .paper.heart{
     position: relative;
-    width: 130px;
-    height: 130px;
+    width: 50px;
+    height: 50px;
     padding: 0;
-    border-radius: 70%;
+    border-radius: 80%;
 }
 .paper.image{
-    padding: 8px;
+    padding: 2px;
 }
 .paper.image p{
-   font-size: 30px;
+   font-size: 15px;
 }
 image{
-    max-height: 130px;
+    max-height: 60px;
     width: 60%;
     
 }
@@ -45,11 +45,11 @@ image{
     position: absolute;
     top: 0;
     left: 0;
-    background-size: 170px;
+    background-size: 70px;
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.9;
-    border-radius: 10px;
+    border-radius: 3px;
 }
 p{
     font-family: cursive;
