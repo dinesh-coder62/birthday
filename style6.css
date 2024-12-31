@@ -1,8 +1,4 @@
-.paper{
-    padding: 50px 50px;
-    height:20px;
-    width:30px;
-}
+
 body{
  
     height: 100vh;
@@ -12,6 +8,7 @@ body{
     background-image: url(imagess/image17.avif);
 }
 .paper{
+    padding: 50px 50px;
     height:20px;
     width:30px;
    
@@ -26,7 +23,7 @@ body{
 .paper.heart{
     position: relative;
     width: 30px;
-    height: 20px;
+    height: 30px;
     padding: 0;
     border-radius: 80%;
 }
