@@ -12,7 +12,7 @@ body{
 .paper{
     position: absolute;
     background-image: url(imagess/image11.avif);
-    background-size: 30px;
+    background-size: 50px;
     background-position: center center;
     padding: 3px 15px;
     transform: rotateZ(-5deg);
@@ -20,7 +20,7 @@ body{
 }
 .paper.heart{
     position: relative;
-    width: 30px;
+    width: 50px;
     height: 30px;
     padding: 0;
     border-radius: 80%;
@@ -29,11 +29,11 @@ body{
     padding: 10px;
 }
 .paper.image p{
-   font-size: 15px;
+   font-size: 5px;
 }
 image{
-    max-height: 30px;
-    width: 30%;
+    max-height: 50px;
+    width: 70%;
     
 }
 .paper.heart::after{
@@ -44,7 +44,7 @@ image{
     position: absolute;
     top: 0;
     left: 0;
-    background-size: 30px;
+    background-size: 60px;
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.9;
