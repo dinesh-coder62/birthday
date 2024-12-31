@@ -1,4 +1,6 @@
-
+.paper{
+    padding: 50px 50px;
+}
 body{
  
     height: 100vh;
@@ -8,10 +10,6 @@ body{
     background-image: url(imagess/image17.avif);
 }
 .paper{
-    padding: 50px 50px;
-    height:20px;
-    width:30px;
-   
     position: absolute;
     background-image: url(imagess/image11.avif);
     background-size: 30px;
