@@ -7,12 +7,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("C:\Users\dines\OneDrive\Desktop\BirthDay\imagess\image17.avif");
+    background-image: url("C:\Users\dines\OneDrive\Desktop\BirthDay\image17.avif");
 }
 .paper{
    
     position: absolute;
-    background-image: url(C:\Users\dines\OneDrive\Desktop\BirthDay\imagess);
+    background-image: url(image11.avif);
     background-size: 500px;
     background-position: center center;
     padding: 20px 100px;
