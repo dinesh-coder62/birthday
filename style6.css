@@ -7,12 +7,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(C:\Users\dines\Downloads);
+    background-image: url(C:\Users\dines\Downloads\image17.avif);
 }
 .paper{
    
     position: absolute;
-    background-image: url(C:\Users\dines\Downloads);
+    background-image: url(C:\Users\dines\Downloads\image11.avif);
     background-size: 500px;
     background-position: center center;
     padding: 20px 100px;
